@@ -1,0 +1,25 @@
+%Filename: fsypr8a.mtx
+%Created by: tex fsyp-fontinst
+%Created using: \afmtomtx{fsypr8a}{fsypr8a}
+
+%This file contains the information of fsypr8a.afm in a form
+%more easily read by TeX. It is used by the fontinst package.
+
+%THIS FILE CAN BE DELETED.
+
+\relax
+\metrics
+
+\needsfontinstversion{1.933}
+
+\storemapdata{fsypr8a}{\fromafm{fsypr8a}{PerceptiSysSymbols}}{}
+\setint{italicslant}{0}
+\setint{monowidth}{1}
+\setint{underlinethickness}{50}
+\setint{maxheight}{681}
+\setint{maxdepth_neg}{-81}
+\setint{capheight}{680}
+\setint{descender_neg}{-81}
+\setrawglyph{A}{fsypr8a}{10pt}{65}{1000}{681}{81}{0}
+
+\endmetrics

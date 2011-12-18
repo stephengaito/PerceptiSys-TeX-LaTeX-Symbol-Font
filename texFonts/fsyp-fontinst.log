@@ -1,0 +1,459 @@
+This is TeX, Version 3.1415926 (TeX Live 2011) (format=tex 2011.10.17)  18 DEC 2011 10:38
+**fsyp-fontinst.tex
+(./fsyp-fontinst.tex
+(/data/local/texlive/2011/texmf-dist/tex/fontinst/base/fontinst.sty
+\a_count=\count26
+\b_count=\count27
+\c_count=\count28
+\d_count=\count29
+\e_count=\count30
+\f_count=\count31
+\g_count=\count32
+\a_dimen=\dimen16
+\b_dimen=\dimen17
+\c_dimen=\dimen18
+\d_dimen=\dimen19
+\a_toks=\toks12
+\b_toks=\toks13
+\c_toks=\toks14
+\out_file=\write0
+\half_point=\dimen20
+\result=\count33
+\slot_number=\count34
+\glyph_width=\count35
+\glyph_height=\count36
+\glyph_depth=\count37
+\glyph_italic=\count38
+\glyph_map_commands=\toks15
+\glyph_map_fonts=\toks16
+\glyph_voffset=\count39
+\glyph_maxhpos=\count40
+\mapfont_scaling=\dimen21
+\rawfont_scaling=\dimen22
+\side_bearings=\dimen23
+\curr_bearings=\dimen24
+\font_count=\count41
+\next_mapfont=\count42
+\prev_mapfont=\count43
+\family_toks=\toks17
+\minimum_kern=\count44
+\afm_unit_dimen=\dimen25
+\char_slot=\count45
+\char_x_width=\count46
+\x_width=\count47
+\bbox_llx=\count48
+\bbox_lly=\count49
+\bbox_urx=\count50
+\bbox_ury=\count51
+\command_survivance=\count52
+
+No file fontinst.rc.
+)
+\write1 allocated to the pool.
+\openout1 = `fsyp-rec.tex'.
+
+\openout0 = `fsypr8a.mtx'.
+
+ (./fsypr8a.afm)
+Metrics written on fsypr8a.mtx.
+\openout0 = `fsypr8a.pl'.
+
+(./fsypr8a.mtx)
+Raw font written on fsypr8a.pl.
+\openout0 = `fsypr8r.mtx'.
+
+(/data/local/texlive/2011/texmf-dist/tex/fontinst/latinetx/8r.etx)
+(./fsypr8a.mtx)
+Transformed metrics written on fsypr8r.mtx.
+\openout0 = `fsypr8r.pl'.
+
+(./fsypr8r.mtx)
+Raw font written on fsypr8r.pl.
+(./fsypr8r.mtx)
+(/data/local/texlive/2011/texmf-dist/tex/fontinst/latinmtx/newlatin.mtx
+(/data/local/texlive/2011/texmf-dist/tex/fontinst/latinmtx/llbuild.mtx
+(/data/local/texlive/2011/texmf-dist/tex/fontinst/latinmtx/ltcmds.mtx))
+(/data/local/texlive/2011/texmf-dist/tex/fontinst/latinmtx/lubuild.mtx)
+(/data/local/texlive/2011/texmf-dist/tex/fontinst/latinmtx/lsbuild.mtx)
+(/data/local/texlive/2011/texmf-dist/tex/fontinst/latinmtx/lsfake.mtx)
+(/data/local/texlive/2011/texmf-dist/tex/fontinst/latinmtx/lsmisc.mtx)
+(/data/local/texlive/2011/texmf-dist/tex/fontinst/latinmtx/ltpunct.mtx))
+(/data/local/texlive/2011/texmf-dist/tex/fontinst/latinetx/t1.etx)
+\openout0 = `fsypr8t.vpl'.
+
+
+(/data/local/texlive/2011/texmf-dist/tex/fontinst/latinetx/t1.etx)
+(/data/local/texlive/2011/texmf-dist/tex/fontinst/latinetx/t1.etx)
+(/data/local/texlive/2011/texmf-dist/tex/fontinst/latinetx/t1.etx
+Warning: missing glyph `grave'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `circumflex'.
+Warning: missing glyph `tilde'.
+Warning: missing glyph `dieresis'.
+Warning: missing glyph `hungarumlaut'.
+Warning: missing glyph `ring'.
+Warning: missing glyph `caron'.
+Warning: missing glyph `breve'.
+Warning: missing glyph `macron'.
+Warning: missing glyph `dotaccent'.
+Warning: missing glyph `cedilla'.
+Warning: missing glyph `ogonek'.
+Warning: missing glyph `comma'.
+Warning: missing glyph `guilsinglleft'.
+Warning: missing glyph `guilsinglright'.
+Warning: missing glyph `quotedblleft'.
+Warning: missing glyph `quotedblright'.
+Warning: missing glyph `quotedblbase'.
+Warning: missing glyph `guillemotleft'.
+Warning: missing glyph `guillemotright'.
+Warning: missing glyph `hyphen'.
+Warning: missing glyph `hyphen'.
+Warning: missing glyph `hyphen'.
+Warning: missing glyph `perthousandzero'.
+Warning: missing glyph `dotlessi'.
+Warning: missing glyph `j'.
+Warning: missing glyph `f'.
+Warning: missing glyph `f'.
+Warning: missing glyph `f'.
+Warning: missing glyph `i'.
+Warning: missing glyph `f'.
+Warning: missing glyph `l'.
+Warning: missing glyph `f'.
+Warning: missing glyph `f'.
+Warning: missing glyph `i'.
+Warning: missing glyph `f'.
+Warning: missing glyph `f'.
+Warning: missing glyph `l'.
+Warning: missing glyph `exclam'.
+Warning: missing glyph `quotedbl'.
+Warning: missing glyph `numbersign'.
+Warning: missing glyph `dollar'.
+Warning: missing glyph `percent'.
+Warning: missing glyph `ampersand'.
+Warning: missing glyph `quoteright'.
+Warning: missing glyph `parenleft'.
+Warning: missing glyph `parenright'.
+Warning: missing glyph `asterisk'.
+Warning: missing glyph `plus'.
+Warning: missing glyph `comma'.
+Warning: missing glyph `hyphen'.
+Warning: missing glyph `period'.
+Warning: missing glyph `slash'.
+Warning: missing glyph `zero'.
+Warning: missing glyph `one'.
+Warning: missing glyph `two'.
+Warning: missing glyph `three'.
+Warning: missing glyph `four'.
+Warning: missing glyph `five'.
+Warning: missing glyph `six'.
+Warning: missing glyph `seven'.
+Warning: missing glyph `eight'.
+Warning: missing glyph `nine'.
+Warning: missing glyph `colon'.
+Warning: missing glyph `semicolon'.
+Warning: missing glyph `less'.
+Warning: missing glyph `equal'.
+Warning: missing glyph `greater'.
+Warning: missing glyph `question'.
+Warning: missing glyph `at'.
+Warning: missing glyph `B'.
+Warning: missing glyph `C'.
+Warning: missing glyph `D'.
+Warning: missing glyph `E'.
+Warning: missing glyph `F'.
+Warning: missing glyph `G'.
+Warning: missing glyph `H'.
+Warning: missing glyph `I'.
+Warning: missing glyph `J'.
+Warning: missing glyph `K'.
+Warning: missing glyph `L'.
+Warning: missing glyph `M'.
+Warning: missing glyph `N'.
+Warning: missing glyph `O'.
+Warning: missing glyph `P'.
+Warning: missing glyph `Q'.
+Warning: missing glyph `R'.
+Warning: missing glyph `S'.
+Warning: missing glyph `T'.
+Warning: missing glyph `U'.
+Warning: missing glyph `V'.
+Warning: missing glyph `W'.
+Warning: missing glyph `X'.
+Warning: missing glyph `Y'.
+Warning: missing glyph `Z'.
+Warning: missing glyph `bracketleft'.
+Warning: missing glyph `backslash'.
+Warning: missing glyph `bracketright'.
+Warning: missing glyph `asciicircum'.
+Warning: missing glyph `underscore'.
+Warning: missing glyph `quoteleft'.
+Warning: missing glyph `a'.
+Warning: missing glyph `b'.
+Warning: missing glyph `c'.
+Warning: missing glyph `d'.
+Warning: missing glyph `e'.
+Warning: missing glyph `f'.
+Warning: missing glyph `g'.
+Warning: missing glyph `h'.
+Warning: missing glyph `i'.
+Warning: missing glyph `j'.
+Warning: missing glyph `k'.
+Warning: missing glyph `l'.
+Warning: missing glyph `m'.
+Warning: missing glyph `n'.
+Warning: missing glyph `o'.
+Warning: missing glyph `p'.
+Warning: missing glyph `q'.
+Warning: missing glyph `r'.
+Warning: missing glyph `s'.
+Warning: missing glyph `t'.
+Warning: missing glyph `u'.
+Warning: missing glyph `v'.
+Warning: missing glyph `w'.
+Warning: missing glyph `x'.
+Warning: missing glyph `y'.
+Warning: missing glyph `z'.
+Warning: missing glyph `braceleft'.
+Warning: missing glyph `bar'.
+Warning: missing glyph `braceright'.
+Warning: missing glyph `asciitilde'.
+Warning: missing glyph `hyphen'.
+Warning: missing glyph `breve'.
+Warning: missing glyph `ogonek'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `C'.
+Warning: missing glyph `caron'.
+Warning: missing glyph `C'.
+Warning: missing glyph `caron'.
+Warning: missing glyph `D'.
+Warning: missing glyph `caron'.
+Warning: missing glyph `E'.
+Warning: missing glyph `ogonek'.
+Warning: missing glyph `E'.
+Warning: missing glyph `breve'.
+Warning: missing glyph `G'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `L'.
+Warning: missing glyph `L'.
+Warning: missing glyph `quoteright'.
+Warning: missing glyph `lslashslash'.
+Warning: missing glyph `L'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `N'.
+Warning: missing glyph `caron'.
+Warning: missing glyph `N'.
+Warning: missing glyph `Eng'.
+Warning: missing glyph `hungarumlaut'.
+Warning: missing glyph `O'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `R'.
+Warning: missing glyph `caron'.
+Warning: missing glyph `R'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `S'.
+Warning: missing glyph `caron'.
+Warning: missing glyph `S'.
+Warning: missing glyph `cedilla'.
+Warning: missing glyph `S'.
+Warning: missing glyph `caron'.
+Warning: missing glyph `T'.
+Warning: missing glyph `cedilla'.
+Warning: missing glyph `T'.
+Warning: missing glyph `hungarumlaut'.
+Warning: missing glyph `U'.
+Warning: missing glyph `ring'.
+Warning: missing glyph `U'.
+Warning: missing glyph `dieresis'.
+Warning: missing glyph `Y'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `Z'.
+Warning: missing glyph `caron'.
+Warning: missing glyph `Z'.
+Warning: missing glyph `dotaccent'.
+Warning: missing glyph `Z'.
+Warning: missing glyph `I'.
+Warning: missing glyph `J'.
+Warning: missing glyph `dotaccent'.
+Warning: missing glyph `I'.
+Warning: missing glyph `macron'.
+Warning: missing glyph `d'.
+Warning: missing glyph `section'.
+Warning: missing glyph `breve'.
+Warning: missing glyph `a'.
+Warning: missing glyph `ogonek'.
+Warning: missing glyph `a'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `c'.
+Warning: missing glyph `caron'.
+Warning: missing glyph `c'.
+Warning: missing glyph `d'.
+Warning: missing glyph `quoteright'.
+Warning: missing glyph `caron'.
+Warning: missing glyph `e'.
+Warning: missing glyph `ogonek'.
+Warning: missing glyph `e'.
+Warning: missing glyph `breve'.
+Warning: missing glyph `g'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `l'.
+Warning: missing glyph `l'.
+Warning: missing glyph `quoteright'.
+Warning: missing glyph `lslashslash'.
+Warning: missing glyph `l'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `n'.
+Warning: missing glyph `caron'.
+Warning: missing glyph `n'.
+Warning: missing glyph `eng'.
+Warning: missing glyph `hungarumlaut'.
+Warning: missing glyph `o'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `r'.
+Warning: missing glyph `caron'.
+Warning: missing glyph `r'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `s'.
+Warning: missing glyph `caron'.
+Warning: missing glyph `s'.
+Warning: missing glyph `cedilla'.
+Warning: missing glyph `s'.
+Warning: missing glyph `t'.
+Warning: missing glyph `quoteright'.
+Warning: missing glyph `cedilla'.
+Warning: missing glyph `t'.
+Warning: missing glyph `hungarumlaut'.
+Warning: missing glyph `u'.
+Warning: missing glyph `ring'.
+Warning: missing glyph `u'.
+Warning: missing glyph `dieresis'.
+Warning: missing glyph `y'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `z'.
+Warning: missing glyph `caron'.
+Warning: missing glyph `z'.
+Warning: missing glyph `dotaccent'.
+Warning: missing glyph `z'.
+Warning: missing glyph `i'.
+Warning: missing glyph `j'.
+Warning: missing glyph `exclamdown'.
+Warning: missing glyph `questiondown'.
+Warning: missing glyph `sterling'.
+Warning: missing glyph `grave'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `circumflex'.
+Warning: missing glyph `tilde'.
+Warning: missing glyph `dieresis'.
+Warning: missing glyph `ring'.
+Warning: missing glyph `AE'.
+Warning: missing glyph `cedilla'.
+Warning: missing glyph `C'.
+Warning: missing glyph `grave'.
+Warning: missing glyph `E'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `E'.
+Warning: missing glyph `circumflex'.
+Warning: missing glyph `E'.
+Warning: missing glyph `dieresis'.
+Warning: missing glyph `E'.
+Warning: missing glyph `grave'.
+Warning: missing glyph `I'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `I'.
+Warning: missing glyph `circumflex'.
+Warning: missing glyph `I'.
+Warning: missing glyph `dieresis'.
+Warning: missing glyph `I'.
+Warning: missing glyph `Eth'.
+Warning: missing glyph `tilde'.
+Warning: missing glyph `N'.
+Warning: missing glyph `grave'.
+Warning: missing glyph `O'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `O'.
+Warning: missing glyph `circumflex'.
+Warning: missing glyph `O'.
+Warning: missing glyph `tilde'.
+Warning: missing glyph `O'.
+Warning: missing glyph `dieresis'.
+Warning: missing glyph `O'.
+Warning: missing glyph `OE'.
+Warning: missing glyph `Oslash'.
+Warning: missing glyph `grave'.
+Warning: missing glyph `U'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `U'.
+Warning: missing glyph `circumflex'.
+Warning: missing glyph `U'.
+Warning: missing glyph `dieresis'.
+Warning: missing glyph `U'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `Y'.
+Warning: missing glyph `Thorn'.
+Warning: missing glyph `S'.
+Warning: missing glyph `S'.
+Warning: missing glyph `grave'.
+Warning: missing glyph `a'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `a'.
+Warning: missing glyph `circumflex'.
+Warning: missing glyph `a'.
+Warning: missing glyph `tilde'.
+Warning: missing glyph `a'.
+Warning: missing glyph `dieresis'.
+Warning: missing glyph `a'.
+Warning: missing glyph `ring'.
+Warning: missing glyph `a'.
+Warning: missing glyph `ae'.
+Warning: missing glyph `cedilla'.
+Warning: missing glyph `c'.
+Warning: missing glyph `grave'.
+Warning: missing glyph `e'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `e'.
+Warning: missing glyph `circumflex'.
+Warning: missing glyph `e'.
+Warning: missing glyph `dieresis'.
+Warning: missing glyph `e'.
+Warning: missing glyph `grave'.
+Warning: missing glyph `dotlessi'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `dotlessi'.
+Warning: missing glyph `circumflex'.
+Warning: missing glyph `dotlessi'.
+Warning: missing glyph `dieresis'.
+Warning: missing glyph `dotlessi'.
+Warning: missing glyph `eth'.
+Warning: missing glyph `tilde'.
+Warning: missing glyph `n'.
+Warning: missing glyph `grave'.
+Warning: missing glyph `o'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `o'.
+Warning: missing glyph `circumflex'.
+Warning: missing glyph `o'.
+Warning: missing glyph `tilde'.
+Warning: missing glyph `o'.
+Warning: missing glyph `dieresis'.
+Warning: missing glyph `o'.
+Warning: missing glyph `oe'.
+Warning: missing glyph `oslash'.
+Warning: missing glyph `grave'.
+Warning: missing glyph `u'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `u'.
+Warning: missing glyph `circumflex'.
+Warning: missing glyph `u'.
+Warning: missing glyph `dieresis'.
+Warning: missing glyph `u'.
+Warning: missing glyph `acute'.
+Warning: missing glyph `y'.
+Warning: missing glyph `thorn'.
+Warning: missing glyph `germandbls'.
+)
+Virtual font written on fsypr8t.vpl.
+\openout0 = `t1fsyp.fd'.
+
+Font definitions written on t1fsyp.fd.
+Font transformation records written on fsyp-rec.tex.
+ )
+No pages of output.

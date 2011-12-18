@@ -1,0 +1,43 @@
+This is the PerceptiSys Symbols font project.
+
+This project uses the FontForge project ( http://fontforge.sf.net ) to build
+and maintain a Postscript Type 1 symbol font for the use of TeX/LaTeX (using
+the TeXLive system).
+
+The PerceptiSys Symbols font (what little there is of it) is copyright 
+PerceptiSys Ltd but is licensed for reuse using a Creative Commons 
+Attribution-ShareAlike 3.0 Unported License 
+( http://creativecommons.org/licenses/by-sa/3.0/ ).
+
+The scripts used to build and maintain this font in an TeX/LaTeX environment
+are Copyright PerceptiSys Ltd and released under the LGPL license (see: 
+www.gnu.org/licenses/lgpl.html (currently at version 3.0)).
+
+To alter this font you would make use of the excellent FontForge software
+for your particular operating system. For an understanding of how to make such
+modifications you must explore FontForge's documentation on your own.
+
+To (re)build this font, in the base directory of this distribution, type:
+  ./buildTeXFonts.rb
+
+If there are no errors you can then install the fonts.
+
+If this is a NEW installation you need to add a new font family as a single 
+line in the $texLiveLocal/web2c/updmap-local.cfg file:
+  Map fsyp.map
+
+Then as root run
+   tlmgr generate updmap
+once.
+
+For any installation you can then, as root or sudo, run:
+  ./installFonts.sh
+
+
+REQUIREMENTS:
+  The fonts are authored using the FontForge software 
+  The buildTeXFonts.rb script requires the ruby scripting language
+  The installFonts.sh script requires the bash scripting language
+  
+  The whole system requires a modern installation of TeX/LaTex
+    I use TeXLive ( http://www.tug.org/texlive/ )

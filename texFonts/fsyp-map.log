@@ -1,0 +1,37 @@
+This is TeX, Version 3.1415926 (TeX Live 2011) (format=tex 2011.10.17)  18 DEC 2011 10:38
+**fsyp-map.tex
+(./fsyp-map.tex
+(/data/local/texlive/2011/texmf-dist/tex/fontinst/base/finstmsc.sty
+\a_count=\count26
+\b_count=\count27
+\c_count=\count28
+\d_count=\count29
+\e_count=\count30
+\f_count=\count31
+\g_count=\count32
+\a_dimen=\dimen16
+\b_dimen=\dimen17
+\c_dimen=\dimen18
+\d_dimen=\dimen19
+\a_toks=\toks12
+\b_toks=\toks13
+\c_toks=\toks14
+\out_file=\write0
+\half_point=\dimen20
+\result=\count33
+\slot_number=\count34
+\process_generation=\count35
+\xscale_factor=\dimen21
+\slant_factor=\dimen22
+\downloads_list=\toks15
+
+No file finstmsc.rc.
+)
+\write1 allocated to the pool.
+\openout1 = `fsyp.map'.
+
+ (./fsyp-rec.tex)
+Map file fragments written on fsyp.map.
+
+ )
+No pages of output.

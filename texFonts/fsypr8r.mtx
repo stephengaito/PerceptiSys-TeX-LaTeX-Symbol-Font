@@ -1,0 +1,25 @@
+%Filename: fsypr8r.mtx
+%Created by: tex fsyp-fontinst
+%Created using: \mtxtomtx{fsypr8a}{fsypr8r}
+
+%This file is used by the fontinst package.
+
+%THIS FILE CAN BE DELETED.
+
+\relax
+\metrics
+
+\needsfontinstversion{1.933}
+
+\storemapdata{fsypr8r}{\frommtx{fsypr8a}}{\reencodefont{8r}}
+
+\setint{italicslant}{0}
+\setint{monowidth}{1}
+\setint{underlinethickness}{50}
+\setint{maxheight}{681}
+\setint{maxdepth_neg}{-81}
+\setint{capheight}{680}
+\setint{descender_neg}{-81}
+\setscaledrawglyph{A}{fsypr8r}{10pt}{1000}{65}{1000}{681}{81}{0}
+
+\endmetrics
